@@ -52,4 +52,4 @@ func main() {
 
 Run `go generate ./...` and your code will get generated.
 
-See also [the example](example/).
+See also [the example](example/databases/).
